@@ -1,2 +1,2 @@
-# BoilerPlate-master
-All these files are only for to understand the Boilerplate
+# p5.play-boilerplate
+Boiler plate for p5.play
